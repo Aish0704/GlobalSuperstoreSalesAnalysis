@@ -14,5 +14,5 @@ The main sales trend column chart illustrates the overall sales trend over time,
 A map chart is incorporated to provide a geographic perspective on sales. It visually represents sales data across different regions, allowing stakeholders to identify regional strengths and opportunities for expansion.
 
 ## Power BI Dashboard
-![PowerBIModuleEndProject](https://github.com/lijesh010/GlobalSuperstoreSalesAnalysis/assets/131745794/ca62c540-f349-4261-9cac-23bacc6d6fe0)
+![PowerBIModuleEndProject](https://github.com/Aish0704/GlobalSuperstoreSalesAnalysis/blob/main/PowerBIModuleEndProject.pdf)
 
